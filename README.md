@@ -18,7 +18,7 @@ In this project, there's a Solidity smart contract integrated to mint ERC721 NFT
 6. You can then check the balance of the polygon contract to verify the transfer using the `getBalance.js` script.
 
 ## Link for the deployed NFT collection 
-- [Here](https://testnets.opensea.io/collection/mynft-3883)
+- [Here](https://testnets.opensea.io/collection/zooworld-9)
   
 ## Help
 
