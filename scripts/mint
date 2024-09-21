@@ -2,7 +2,7 @@ const hre = require("hardhat");
 const tokenAbi = require("../artifacts/contracts/MyNFT.sol/MyNFT.json");
 require("dotenv").config();
 
-const tokenAddress = "0x0c6f475986560291283CF4DBD5c6d024051f246C";
+const tokenAddress = "0xeFbAD99471C5a5570b56E13C80D3e0A12Fd7205B";
 const abi = tokenAbi.abi;
 
 async function main() {
