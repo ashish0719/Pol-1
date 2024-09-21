@@ -4,7 +4,7 @@ const fxRootContractABI = require("../fxRootContractABI.json");
 const NFTContractABI = require("../artifacts/contracts/MyNFT.sol/MyNFT.json");
 
 const FxERC721RootAddress = "0x9E688939Cb5d484e401933D850207D6750852053";
-const NFTAddress = "0xf6edf6914a612b4cc30dbcf8187cb98dfe024fe2";
+const NFTAddress = "0xeFbAD99471C5a5570b56E13C80D3e0A12Fd7205B";
 
 const NFTABI = NFTContractABI.abi;
 const walletAddress = "0x57b02e207c5b665E02bD2867ae2071Ec6bccB5eB";
