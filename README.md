@@ -24,8 +24,8 @@ In this project, there's a Solidity smart contract integrated to mint ERC721 NFT
 
 1. Use alchemy or infura to create a secret api key for the two testnetwork sepolia --> amoy.
     
-    https://www.alchemy.com/chain-connect/endpoints/rpc-sepolia-sepolia
-     https://docs.infura.io/api/network-endpoints
+   1. https://www.alchemy.com/chain-connect/endpoints/rpc-sepolia-sepolia
+    2. https://docs.infura.io/api/network-endpoints
 
   
 2. There should be a sufficient balnce in the wallet (Metamask) for paying the gas fees you can get free faucets from :
